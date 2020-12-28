@@ -1151,7 +1151,6 @@ id barrier
 id beginning
 id blocking
 id bottom
-id btnFinish
 id buttonPanel
 id center
 id center_horizontal
@@ -1316,7 +1315,6 @@ id title
 id titleDividerNoCustom
 id title_template
 id toolbar_exercise_activity
-id toolbar_finish_activity
 id top
 id topPanel
 id touch_outside
@@ -1325,7 +1323,6 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
-id tvEnd
 id tvTimer
 id tvTimerexcercise
 id tvexcersiname
@@ -1394,7 +1391,6 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_exercise
-layout activity_finish
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item

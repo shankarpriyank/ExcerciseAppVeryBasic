@@ -88,10 +88,6 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sh
 		ADDED from C:\Users\shank\AndroidStudioProjects\7MinutesWorkout_v3\app\src\main\AndroidManifest.xml:9:9-36
 	android:theme
 		ADDED from C:\Users\shank\AndroidStudioProjects\7MinutesWorkout_v3\app\src\main\AndroidManifest.xml:14:9-40
-activity#com.sevenminuteworkout.Finish
-ADDED from C:\Users\shank\AndroidStudioProjects\7MinutesWorkout_v3\app\src\main\AndroidManifest.xml:16:9-53
-	android:name
-		ADDED from C:\Users\shank\AndroidStudioProjects\7MinutesWorkout_v3\app\src\main\AndroidManifest.xml:16:19-41
 activity#com.sevenminuteworkout.MainActivity
 ADDED from C:\Users\shank\AndroidStudioProjects\7MinutesWorkout_v3\app\src\main\AndroidManifest.xml:17:9-27:20
 	android:screenOrientation

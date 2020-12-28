@@ -4,32 +4,32 @@
         "source": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\src\\main\\res\\drawable\\item_circular_color_accent_border.xml"
     },
     {
-        "merged": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_color_accent_border_ripple_background.xml.flat",
-        "source": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\src\\main\\res\\drawable\\item_color_accent_border_ripple_background.xml"
+        "merged": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
         "source": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
+        "merged": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_color_accent_border_ripple_background.xml.flat",
+        "source": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\src\\main\\res\\drawable\\item_color_accent_border_ripple_background.xml"
+    },
+    {
         "merged": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
-    },
-    {
         "merged": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_done.xml.flat",
         "source": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\src\\main\\res\\drawable\\ic_action_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tricepdip.png.flat",
@@ -70,10 +70,6 @@
     {
         "merged": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_finish.xml.flat",
-        "source": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\src\\main\\res\\layout\\activity_finish.xml"
     },
     {
         "merged": "C:\\Users\\shank\\AndroidStudioProjects\\7MinutesWorkout_v3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
